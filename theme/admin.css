@@ -1,0 +1,55 @@
+/*admin for css*/
+.ad{
+	background:#E90303;
+	
+	padding:8px;
+	transition:1s;
+	box-shadow:0px 2px 5px grey;
+	position:relative;
+}
+
+
+
+.ad:hover{
+	background:#E62C2C;
+	transition:1s;
+}
+
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover{
+	background-color:#63A1EC;
+	color:white;
+	border-radius:1em;
+}
+
+.navbar-inverse .navbar-nav>li>a:hover{
+	background:#20B16D;
+	border-style:#20B16D 1px solid;
+	transition:2s;
+	border-radius:2em;
+}
+
+.navbar-inverse .navbar-nav>li>a{
+	color:white;
+}
+
+.navbar-inverse .navbar-nav>.active>a:hover{
+	background:#F7BB07;
+	transition:0.9s;
+}
+
+.navbar-inverse .navbar-brand {
+	color:white;
+}
+
+.navbar-inverse .navbar-brand:hover{
+	color:black;
+	transition:2s;
+}
+#ba:hover{
+	transform:rotate(360deg);
+	transition:2s;
+}
+
+
+
