@@ -19,6 +19,8 @@
 
 - [x] ***Javascript***
 
+<hr>
+
 ### :hash: Config
 
 **If you clone this project than in your phpmyadmin make _dpp_ name empty database and import that sqlfile/dpp.sql file in empty database**
