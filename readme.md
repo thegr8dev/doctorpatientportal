@@ -1,7 +1,8 @@
 
-<h1 style="color:blue" align="center"><i>Doctor Patient Portal In CorePHP</i></h1>
+<h1 style="color:blue" align="center"><i>Doctor Patient Portal In CorePHP</i><br>
+<img align="center" src="http://img.shields.io/scrutinizer/build/g/filp/whoops.svg"/></h1>
 
-<center><img align="center" src="http://img.shields.io/scrutinizer/build/g/filp/whoops.svg"/></center>
+
 
 ### :pencil: About Project :
 
