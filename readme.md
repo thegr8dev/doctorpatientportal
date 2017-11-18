@@ -23,5 +23,6 @@
 
 **If you clone this project than in your phpmyadmin make _dpp_ name empty database and import that sqlfile/dpp.sql file in empty database**
 
->***Default admin password is admin@test.com <br>
- 123456 (password)***
+>***Default admin password is : <br/>
+ email :admin@test.com <br>
+ password: 123456***
