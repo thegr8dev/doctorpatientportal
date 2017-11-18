@@ -1,6 +1,6 @@
 
-<h1 style="color:blue" align="center"><i>Doctor Patient Portal In CorePHP</i><br>
-<a href="#"><img align="center" src="http://img.shields.io/scrutinizer/build/g/filp/whoops.svg"/></a></h1>
+<h1 align="center"><font color="red"><i>Doctor Patient Portal In CorePHP</i></font><br>
+
 
 
 
