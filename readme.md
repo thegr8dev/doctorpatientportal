@@ -1,6 +1,6 @@
-# **Doctor Patient Portal In CorePHP **
+# ***Doctor Patient Portal In CorePHP***
 
-**Email me for more project like this [ankitwonders@gail.com](ankitswonders@gmail.com)**
+**Email me for more project like this [ankitwonders@gmail.com](ankitswonders@gmail.com)**
 
-**Developer : Ankit Kabra**
-**Location  : Rajasthan,India**
+**Developer** : ***Ankit Kabra***
+**Location**  : ***Rajasthan,India***
