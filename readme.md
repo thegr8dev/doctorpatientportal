@@ -9,16 +9,12 @@
 ### Made From :
 
 
-[x] HTML 5 and CSS 3
+- [x] HTML 5 and CSS 3
 
-[x] CorePHP
+- [x] CorePHP
 
-[x] MYSql
+- [x] MYSql
 
-[x] Ajax
+- [x] Ajax
 
-[x] Javascript
-
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Javascript
