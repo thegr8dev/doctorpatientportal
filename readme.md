@@ -1,7 +1,7 @@
 
 <h1 align="center"><i>Doctor Patient Portal In CorePHP</i></h1>
 
-[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=plastic)]()
+<img align="center" src="http://img.shields.io/scrutinizer/build/g/filp/whoops.svg"/>
 
 ### :pencil: About Project :
 
