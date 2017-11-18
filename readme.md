@@ -6,7 +6,7 @@
 
 <hr>
 
-### :zap: Made From :
+### :computer: Made From :
 
 
 - [x] ***HTML 5 and CSS 3***
