@@ -4,5 +4,5 @@
 <hr>
 **Developer** : ***Ankit Kabra*** <br/>
 <hr>
-**Location**  : ***Rajasthan,India***
+**Location** : **India**
 <hr>
