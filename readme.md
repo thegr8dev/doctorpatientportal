@@ -2,5 +2,5 @@
 
 **Email me for more project like this [ankitwonders@gmail.com](ankitswonders@gmail.com)**
 
-**Developer** : ***Ankit Kabra***
+**Developer** : ***Ankit Kabra*** <br/>
 **Location**  : ***Rajasthan,India***
