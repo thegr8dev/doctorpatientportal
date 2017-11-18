@@ -1,5 +1,5 @@
 
-<p align="center"># ***Doctor Patient Portal In CorePHP***</p>
+<h1 align="center"><i>Doctor Patient Portal In CorePHP</i></h1>
 [![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=plastic)](1.0)
 
 ### :pencil: About Project :
