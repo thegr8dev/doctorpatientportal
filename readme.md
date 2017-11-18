@@ -1,6 +1,7 @@
 
 
 # ***Doctor Patient Portal In CorePHP***
+[![GitHub release](https://img.shields.io/github/release/qubyte/rubidium.svg?style=plastic)]()
 
 ### :pencil: About Project :
 
