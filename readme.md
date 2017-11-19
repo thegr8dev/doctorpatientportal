@@ -12,13 +12,13 @@
 
 ### :boom: Features :
 
-- **Login/Register**
+- ***Login/Register***
 
-- **Admin Panel**
+- ***Admin Panel***
 
-- **Create appointments/ delete appointments**
+- ***Create appointments/ delete appointments***
 
-- **More you find yourselft** :wink:
+- ***More you find yourselft*** :wink:
 
 <hr>
 
