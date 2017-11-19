@@ -12,7 +12,15 @@
 
 ### Features :
 
-**To be added**
+- **Login/Register**
+
+- **Admin Panel**
+
+- **Create appointments/ delete appointments**
+
+- **More you find yourselft** ;)
+
+<hr>
 
 ### :paperclip: Made From :
 
