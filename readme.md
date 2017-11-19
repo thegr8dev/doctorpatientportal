@@ -10,7 +10,7 @@
 
 <hr>
 
-:boom: ### Features :
+### :boom: Features :
 
 - **Login/Register**
 
