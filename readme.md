@@ -10,7 +10,7 @@
 
 <hr>
 
-### Features :
+:boom: ### Features :
 
 - **Login/Register**
 
@@ -18,7 +18,7 @@
 
 - **Create appointments/ delete appointments**
 
-- **More you find yourselft** ;)
+- **More you find yourselft** :wink:
 
 <hr>
 
