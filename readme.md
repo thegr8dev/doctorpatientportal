@@ -1,7 +1,6 @@
 
+
 <h1 align="center"><font color="red"><i>Doctor Patient Portal In CorePHP</i></font><br>
-
-
 
 
 ### :pencil: About Project :
@@ -44,3 +43,7 @@
 >***Default admin password is : <br/>
  email :admin@test.com <br>
  password: 123456***
+
+**Contributors :**
+
+@AnupamAyank (For functionality testing ).
